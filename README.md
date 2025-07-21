@@ -1,0 +1,1 @@
+mini project on image classification in python
